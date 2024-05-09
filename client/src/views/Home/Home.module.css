@@ -1,0 +1,48 @@
+.fondo {
+  background-image: url(https://www.gamesvillage.it/wp-content/uploads/2021/08/Leggende-Pokemon-Arceus.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 126px;
+  min-height: 596px;
+}
+
+.acomodo {
+  margin-left: 50px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgb(189, 209, 224);
+}
+
+.search-bar {
+  margin-top: 20px;
+  flex-grow: 1;
+  background-color: aliceblue;
+}
+
+.filter {
+  display: flex;
+  background-color: rgb(181, 197, 211);
+}
+
+.loadinggif {
+  background-repeat: no-repeat;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+.textogif {
+  margin-left: 200px;
+}
+
+.filterdb {
+  min-width: 20%;
+  background-color: rgb(202, 219, 230);
+}
+
+.filtertipos {
+  background-color: rgb(194, 211, 227);
+}
